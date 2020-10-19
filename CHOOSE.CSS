@@ -1,12 +1,22 @@
 header{
-    width:1440px ;
-    height:50px ;
-    background-color: #FA5E21;
+    background: #FA5E21;
     position: absolute;
+    width:1440px ;
+    height:163px ;
+    left: 0px;
+    top: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: inherit;
-    text-align: center;
-    padding-top: 80px;
-    font-size: 70px;
-    padding-bottom: 50px;
+}
+
+button{
+    position: absolute;
+    width:1080px ;
+    height:224px ;
+    top:187px ;
+    left:170px ;
+    border-radius: 85px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
 }
