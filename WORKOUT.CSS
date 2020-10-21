@@ -1,0 +1,17 @@
+header{
+    position: absolute;
+    width: 1440px;
+    height: 163px;
+    left: 0px;
+    top: 0px;
+   background: #FA5E21;
+}
+
+button{
+    background-color: white;
+    border-radius: 44px;
+    width: 1004px;
+    height:138px ;
+    left:163px ;
+    top:469px ;
+}

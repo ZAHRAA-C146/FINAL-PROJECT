@@ -1,3 +1,9 @@
+body{
+    background-image: url(./zahraa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 header{
     background: #FA5E21;
     position: absolute;
