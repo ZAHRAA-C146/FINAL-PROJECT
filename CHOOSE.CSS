@@ -17,6 +17,38 @@ header{
     text-align: center;
 }
 
+
+
+a{
+  text-decoration: none;  
+}
+
+.WORKOUT{
+        position: absolute;
+        width:1080px ;
+        height:224px ;
+        top:187px ;
+        left:170px ;
+        border-radius: 85px;
+        background-color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: inherit;
+        font-size: 40px;
+}
+
+.DIET{
+        position: absolute;
+        width:1080px ;
+        height:224px ;
+        top:187px ;
+        left:170px ;
+        border-radius: 85px;
+        background-color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: inherit;
+        font-size: 40px;
+}
+
 button{
     position: absolute;
     width:1080px ;
@@ -28,9 +60,5 @@ button{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: inherit;
     font-size: 40px;
-    
-}
-
-a{
-  text-decoration: none;  
+   
 }

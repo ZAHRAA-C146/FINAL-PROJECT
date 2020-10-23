@@ -4,14 +4,6 @@ body{
     background-repeat: no-repeat;
 }
 
-
-
-
-
-
-
-
-
 header{
     background: #FA5E21;
     position: absolute;
@@ -24,7 +16,6 @@ header{
     font-size: 70px;
     text-align: center;
 }
-
 
 button{
     position: absolute;

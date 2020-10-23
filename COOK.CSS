@@ -1,0 +1,41 @@
+body{
+    background-image: url(./zahraa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+header{
+    background: #FA5E21;
+    position: absolute;
+    width:1440px ;
+    height:163px ;
+    left: 0px;
+    top: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 70px;
+    text-align: center;
+}
+
+p{
+    position: absolute;
+    background-color: white;
+    border-radius: 47px;
+    width:1300px ;
+    height: 300px;
+    left:21px ;
+    top:283px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 40px;
+    text-align: center;
+}
+
+h1{
+    background-color: white;
+    border-radius:40px ;
+    margin-top: 270px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
