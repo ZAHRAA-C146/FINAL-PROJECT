@@ -1,10 +1,20 @@
+body{
+    background-image: url(./zahraa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
 header{
     position: absolute;
     width: 1440px;
-    height: 163px;
+    height: 150px;
     left: 0px;
     top: 0px;
    background: #FA5E21;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    text-align: center;
+    font-size: 70px;
 }
 
 button{
@@ -14,4 +24,8 @@ button{
     height:138px ;
     left:163px ;
     top:469px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 40px;
+    margin-left: 150px;
 }
