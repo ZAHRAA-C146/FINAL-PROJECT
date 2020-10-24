@@ -6,7 +6,6 @@ body{
 
 header{
     background: #FA5E21;
-    position: absolute;
     width:100% ;
     height:163px ;
     left: 0px;
@@ -17,14 +16,16 @@ header{
     text-align: center;
 }
 
-.one{
-
+video{
+    margin-top: 100px;
+    width: 320px;
+    height:240px ; 
 }
 
 .two{
-
+    margin-top: 200px;
 }
 
 .three{
-    
+    margin-top: 300px;
 }
