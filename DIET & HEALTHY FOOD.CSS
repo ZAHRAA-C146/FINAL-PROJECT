@@ -7,7 +7,7 @@ body{
 header{
     background: #FA5E21;
     position: absolute;
-    width:1440px ;
+    width:100% ;
     height:163px ;
     left: 0px;
     top: 0px;
@@ -17,7 +17,7 @@ header{
     text-align: center;
 }
 
-button{
+/* button{
     position: absolute;
     background-color: white;
     border-radius: 40px;
@@ -31,6 +31,24 @@ button{
     font-style: inherit;
     font-size: 40px;
     text-decoration: none;
+} */
+
+button{
+    position: absolute;
+    width:1080px ;
+    height:224px ;
+    top:187px ;
+    left:170px ;
+    border-radius: 85px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 40px;
+   
+}
+
+.button{
+    margin-top: 300px;
 }
 
 
