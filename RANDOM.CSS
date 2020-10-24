@@ -20,12 +20,11 @@ video{
     margin-top: 100px;
     width: 320px;
     height:240px ; 
+    display: flex;
+    margin-left: 50px;
 }
 
-.two{
-    margin-top: 200px;
-}
+.containar{
+    display:flex ;
 
-.three{
-    margin-top: 300px;
 }
