@@ -17,7 +17,7 @@ body{
  }
 
 
-button{
+/* button{
     width: 758px;
     height: 143px;
     top: 394px;
@@ -29,4 +29,45 @@ button{
     font-style: inherit;
     margin-top: 80px;
     margin-left: 299px;
+}
+
+button{
+    position: absolute;
+    width:1080px ;
+    height:224px ;
+    top:187px ;
+    left:170px ;
+    border-radius: 85px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 40px;
+   
+} */
+
+button{
+    position: absolute;
+    width:1080px ;
+    height:224px ;
+    top:187px ;
+    left:170px ;
+    border-radius: 85px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 40px;
+   
+}
+
+.button{
+  margin-top:300px;
+    
+}
+
+.containar{
+  padding-top: 100px;
+}
+
+.btn-containar{
+    padding-top: 100px;
 }
